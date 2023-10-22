@@ -1,3 +1,4 @@
+// to print all subsequence of array
 import java.util.ArrayList;
 import java.util.List;
 
